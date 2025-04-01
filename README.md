@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rbaria736
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Angular 
-- 💞️ I’m looking to collaborate on web designing prohects
+- 💞️ I’m looking to collaborate on web designing projects
 - 📫 How to reach me (rbaria736@gmail.com) 
 
 <!---
